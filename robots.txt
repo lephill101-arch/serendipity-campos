@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lephill101-arch.github.io/serendipity-campos/sitemap.xml
